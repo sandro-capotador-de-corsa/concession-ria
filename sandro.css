@@ -1,6 +1,20 @@
 img
 {
-	height: 10rem;
-	width: 15em;
+	height: 12rem;
+	width: 17em;
+}body{
+	background:black ;
+	color: white;
+}
 
+#picadura{
+	height: 30rem;
+	width: 30rem;
+}
+
+
+.centro
+{
+	display: flex;
+	justify-content: center;
 }
